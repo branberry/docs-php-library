@@ -3,7 +3,7 @@ MongoDB PHP Library Documentation
 =================================
 
 This repository contains documentation regarding the MongoDB PHP Library. This
-documentation builds on the work of the `MongoDB
+documentation builds on the work of the `MongoDBtest
 Manual <http://docs.mongodb.org/manual/>`_.
 
 Building the documentation requires `giza 
